@@ -11,7 +11,7 @@ Check out the example in src/example/example.vue
 
 You can run the example by running npm run dev (see below)
 
-You can see the components used 'in the wild' at http://pixelthin.com
+You can see the components used 'in the wild'
 
 ## Getting Started
 
